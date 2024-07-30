@@ -1,7 +1,7 @@
 <html>
 <body>
     <h1 style="color:red"> WELCOME TO <sup>DEVELOP</sup> BRANCH</h1>
-	<h2>We only serve vegeterian food </h2>
+	<h2style="color:green">We only serve vegeterian food </h2>
     <h3>We are happy to server you all type of multicultural food</h3>
 		
 	<p> 
