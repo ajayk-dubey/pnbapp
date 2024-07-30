@@ -3,7 +3,7 @@
     <h1 style ="color:yellow"> WELCOME TO MAIN BRANCH
 	<h2><i>Welcome to JaiShree Punjabi Dhabha (Food like Home)</i> </h2>
 	<h1> <font color="Orange">Our Specality Item is Gobi Ke Paranthe </font> </h1>
-	<h2>We only serve vegeterian food </h2>
+	<h2>##################We only serve vegeterian food </h2>
     <h3>We are happy to server you all type of multicultural food</h3>
 		
 	<p> 
